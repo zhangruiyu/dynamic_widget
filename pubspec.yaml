@@ -4,7 +4,7 @@ version: 4.0.3
 homepage: https://github.com/dengyin2000/dynamic_widget
 
 environment:
-  sdk: '>=2.12.0 <3.0.0'
+  sdk: '>=2.17.0 <3.0.0'
 
 dependencies:
   flutter:
@@ -12,9 +12,9 @@ dependencies:
 
   logging: ^1.0.1
 
-  http: ^0.13.1
+  http: 1.1.0
 
-  font_awesome_flutter: ^9.0.0
+  font_awesome_flutter: 10.5.0
 
 dev_dependencies:
   flutter_test:
